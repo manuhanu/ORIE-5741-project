@@ -1,5 +1,5 @@
 # ORIE 5741 Project Proposal - Bitcoin Price Prediction
-#### Haobing Meng(hm458)  Che-Wei Lou(cl2636)  Manuel Hanuch (meh353)
+#### Haobing Meng(hm458),  Che-Wei Lou(cl2636),  Manuel Hanuch (meh353)
 
 
 ## Background
