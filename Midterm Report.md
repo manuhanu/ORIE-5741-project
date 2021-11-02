@@ -10,7 +10,7 @@ We obtained minute level data of bitcoin from https://www.CryptoDataDownload.com
 We selected some most popular technical factors such as ROC, RSI, MovingAverage and calculated them using open source package ta(technical analysis library) and obtained fundamental factors from online open sources. A detailed description for some sample features is listed below. 
 
 ### Description Table of Selected Features:
-![](feature_table.png)
+![](feature_table.PNG)
 
 One problem of our dataset is that Bitcoin is traded 7 days a week, while stocks are only traded on weekdays so data are not aligned on frequency. We filled missing values using the most recent valid values. We set the data from 2017 to 2020 as the training set and the data from 2021 as the test set. We have 18 features in total, so the size of the training dataset is (1440, 18) and the size of the test dataset is (286, 18).
 
